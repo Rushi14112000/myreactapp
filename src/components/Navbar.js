@@ -1,7 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
-
+// after entering rfc we will get below code snippet
 export default function Navbar(props) {
   return (
     <div>
